@@ -1,0 +1,10 @@
+# Unix submit description file
+# run_eL_pR_011.sub -- simple Marlin job
+
+executable              = run_eL_pR_011.sh
+log                     = run_eL_pR_011.log
+output                  = outfile_eL_pR_011.txt
+error                   = errors_eL_pR_011.txt
+should_transfer_files   = Yes
+when_to_transfer_output = ON_EXIT
+queue 1

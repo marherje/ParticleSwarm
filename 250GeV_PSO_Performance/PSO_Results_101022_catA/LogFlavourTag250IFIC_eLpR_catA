@@ -1,0 +1,571 @@
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.18/04                  https://root.cern |
+  |                               (c) 1995-2019, The ROOT Team |
+  | Built for linuxx8664gcc on Sep 11 2019, 15:38:23           |
+  | From tags/v6-18-04@v6-18-04                                |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA/PSO/PrepareTrees.C+("/lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA/InitData/config.txt", "/lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA/InitData")...
+found BFile
+found CFile
+found OFile
+Did Variable trk1d0sig F  trk1d0sig
+Did Variable trk2d0sig F  trk2d0sig
+Did Variable trk1z0sig F  trk1z0sig
+Did Variable trk2z0sig F  trk2z0sig
+Did Variable trk1pt_jete F  trk1pt_jete
+Did Variable trk2pt_jete F  trk2pt_jete
+Did Variable jprobr2 F  jprobr2
+Did Variable jprobr25sigma F  jprobr25sigma
+Did Variable jprobz2 F  jprobz2
+Did Variable jprobz25sigma F  jprobz25sigma
+Did Variable d0bprob2 F  d0bprob2
+Did Variable d0cprob2 F  d0cprob2
+Did Variable d0qprob2 F  d0qprob2
+Did Variable z0bprob2 F  z0bprob2
+Did Variable z0cprob2 F  z0cprob2
+Did Variable z0qprob2 F  z0qprob2
+Did Variable trkmass F  trkmass
+Did Variable nmuon I  nmuon
+Did Variable nelectron I  nelectron
+Did Variable Weight F  Weight
+added samples
+adding Trees to chain
+FillAllTrees Start Sample B and Bin all
+filling vars
+499200
+created formulatrk1d0sig trk1d0sig 0x378cb90
+created formulatrk2d0sig trk2d0sig 0x378cb90
+created formulatrk1z0sig trk1z0sig 0x378cb90
+created formulatrk2z0sig trk2z0sig 0x378cb90
+created formulatrk1pt_jete trk1pt_jete 0x378cb90
+created formulatrk2pt_jete trk2pt_jete 0x378cb90
+created formulajprobr2 jprobr2 0x378cb90
+created formulajprobr25sigma jprobr25sigma 0x378cb90
+created formulajprobz2 jprobz2 0x378cb90
+created formulajprobz25sigma jprobz25sigma 0x378cb90
+created formulad0bprob2 d0bprob2 0x378cb90
+created formulad0cprob2 d0cprob2 0x378cb90
+created formulad0qprob2 d0qprob2 0x378cb90
+created formulaz0bprob2 z0bprob2 0x378cb90
+created formulaz0cprob2 z0cprob2 0x378cb90
+created formulaz0qprob2 z0qprob2 0x378cb90
+created formulatrkmass trkmass 0x378cb90
+created formulanmuon nmuon 0x378cb90
+created formulanelectron nelectron 0x378cb90
+created formulaWeight Weight 0x378cb90
+Event 0: 0.235139s real time, 0.13s cpu time
+Event 10000: 0.384743s real time, 0.29s cpu time
+Event 20000: 0.508207s real time, 0.41s cpu time
+Event 30000: 0.621045s real time, 0.53s cpu time
+Event 40000: 0.755806s real time, 0.66s cpu time
+Event 50000: 0.872247s real time, 0.78s cpu time
+Event 60000: 0.985211s real time, 0.89s cpu time
+Event 70000: 1.12258s real time, 1.03s cpu time
+Event 80000: 1.25624s real time, 1.16s cpu time
+Event 90000: 1.3686s real time, 1.27s cpu time
+Event 100000: 1.48466s real time, 1.39s cpu time
+Event 110000: 1.61815s real time, 1.52s cpu time
+Event 120000: 1.75558s real time, 1.66s cpu time
+Event 130000: 1.90339s real time, 1.8s cpu time
+Event 140000: 2.01566s real time, 1.92s cpu time
+Event 150000: 2.15113s real time, 2.05s cpu time
+Event 160000: 2.28578s real time, 2.18s cpu time
+Event 170000: 2.40218s real time, 2.3s cpu time
+Event 180000: 2.53637s real time, 2.43s cpu time
+Event 190000: 2.64876s real time, 2.55s cpu time
+Event 200000: 2.76484s real time, 2.66s cpu time
+Event 210000: 2.89896s real time, 2.81s cpu time
+Event 220000: 3.03582s real time, 2.94s cpu time
+Event 230000: 3.14821s real time, 3.05s cpu time
+Event 240000: 3.26049s real time, 3.17s cpu time
+Event 250000: 3.43986s real time, 3.34s cpu time
+Event 260000: 3.55171s real time, 3.46s cpu time
+Event 270000: 3.66674s real time, 3.57s cpu time
+Event 280000: 3.77885s real time, 3.68s cpu time
+Event 290000: 3.91255s real time, 3.82s cpu time
+Event 300000: 4.04976s real time, 3.95s cpu time
+Event 310000: 4.16186s real time, 4.06s cpu time
+Event 320000: 4.29971s real time, 4.2s cpu time
+Event 330000: 4.41222s real time, 4.31s cpu time
+Event 340000: 4.52472s real time, 4.42s cpu time
+Event 350000: 4.66161s real time, 4.56s cpu time
+Event 360000: 4.98527s real time, 4.72s cpu time
+Event 370000: 5.10113s real time, 4.83s cpu time
+Event 380000: 5.21349s real time, 4.95s cpu time
+Event 390000: 5.35116s real time, 5.09s cpu time
+Event 400000: 5.48508s real time, 5.23s cpu time
+Event 410000: 5.59724s real time, 5.34s cpu time
+Event 420000: 5.71299s real time, 5.45s cpu time
+Event 430000: 5.84695s real time, 5.59s cpu time
+Event 440000: 5.96329s real time, 5.7s cpu time
+Event 450000: 6.09756s real time, 5.84s cpu time
+Event 460000: 6.23225s real time, 5.97s cpu time
+Event 470000: 6.34771s real time, 6.08s cpu time
+Event 480000: 6.46567s real time, 6.2s cpu time
+Event 490000: 6.60417s real time, 6.34s cpu time
+adding Trees to chain
+FillAllTrees Start Sample C and Bin all
+filling vars
+500000
+created formulatrk1d0sig trk1d0sig 0x3a4c300
+created formulatrk2d0sig trk2d0sig 0x3a4c300
+created formulatrk1z0sig trk1z0sig 0x3a4c300
+created formulatrk2z0sig trk2z0sig 0x3a4c300
+created formulatrk1pt_jete trk1pt_jete 0x3a4c300
+created formulatrk2pt_jete trk2pt_jete 0x3a4c300
+created formulajprobr2 jprobr2 0x3a4c300
+created formulajprobr25sigma jprobr25sigma 0x3a4c300
+created formulajprobz2 jprobz2 0x3a4c300
+created formulajprobz25sigma jprobz25sigma 0x3a4c300
+created formulad0bprob2 d0bprob2 0x3a4c300
+created formulad0cprob2 d0cprob2 0x3a4c300
+created formulad0qprob2 d0qprob2 0x3a4c300
+created formulaz0bprob2 z0bprob2 0x3a4c300
+created formulaz0cprob2 z0cprob2 0x3a4c300
+created formulaz0qprob2 z0qprob2 0x3a4c300
+created formulatrkmass trkmass 0x3a4c300
+created formulanmuon nmuon 0x3a4c300
+created formulanelectron nelectron 0x3a4c300
+created formulaWeight Weight 0x3a4c300
+Event 0: 6.94914s real time, 6.49s cpu time
+Event 10000: 7.11871s real time, 6.66s cpu time
+Event 20000: 7.28779s real time, 6.83s cpu time
+Event 30000: 7.42558s real time, 6.97s cpu time
+Event 40000: 7.58394s real time, 7.13s cpu time
+Event 50000: 7.74452s real time, 7.29s cpu time
+Event 60000: 7.88191s real time, 7.42s cpu time
+Event 70000: 8.06197s real time, 7.6s cpu time
+Event 80000: 8.22089s real time, 7.76s cpu time
+Event 90000: 8.35856s real time, 7.9s cpu time
+Event 100000: 8.51855s real time, 8.06s cpu time
+Event 110000: 8.67565s real time, 8.22s cpu time
+Event 120000: 8.83492s real time, 8.38s cpu time
+Event 130000: 8.99311s real time, 8.53s cpu time
+Event 140000: 9.15074s real time, 8.69s cpu time
+Event 150000: 9.29023s real time, 8.83s cpu time
+Event 160000: 9.49242s real time, 9.04s cpu time
+Event 170000: 9.65456s real time, 9.2s cpu time
+Event 180000: 9.79221s real time, 9.34s cpu time
+Event 190000: 9.95109s real time, 9.49s cpu time
+Event 200000: 10.0911s real time, 9.63s cpu time
+Event 210000: 10.2677s real time, 9.81s cpu time
+Event 220000: 10.4284s real time, 9.97s cpu time
+Event 230000: 10.5657s real time, 10.11s cpu time
+Event 240000: 10.7248s real time, 10.27s cpu time
+Event 250000: 10.8859s real time, 10.42s cpu time
+Event 260000: 11.0432s real time, 10.58s cpu time
+Event 270000: 11.2031s real time, 10.74s cpu time
+Event 280000: 11.3614s real time, 10.91s cpu time
+Event 290000: 11.4991s real time, 11.05s cpu time
+Event 300000: 11.6931s real time, 11.24s cpu time
+Event 310000: 11.874s real time, 11.42s cpu time
+Event 320000: 12.0148s real time, 11.56s cpu time
+Event 330000: 12.1738s real time, 11.71s cpu time
+Event 340000: 12.3331s real time, 11.87s cpu time
+Event 350000: 12.4926s real time, 12.03s cpu time
+Event 360000: 12.6512s real time, 12.2s cpu time
+Event 370000: 12.8125s real time, 12.36s cpu time
+Event 380000: 12.9497s real time, 12.49s cpu time
+Event 390000: 13.1079s real time, 12.65s cpu time
+Event 400000: 13.2882s real time, 12.83s cpu time
+Event 410000: 13.4264s real time, 12.97s cpu time
+Event 420000: 13.5871s real time, 13.13s cpu time
+Event 430000: 13.724s real time, 13.26s cpu time
+Event 440000: 13.892s real time, 13.43s cpu time
+Event 450000: 14.0721s real time, 13.61s cpu time
+Event 460000: 14.2096s real time, 13.75s cpu time
+Event 470000: 14.3746s real time, 13.91s cpu time
+Event 480000: 14.5333s real time, 14.07s cpu time
+Event 490000: 14.6746s real time, 14.21s cpu time
+adding Trees to chain
+FillAllTrees Start Sample O and Bin all
+filling vars
+1499200
+created formulatrk1d0sig trk1d0sig 0x4220e60
+created formulatrk2d0sig trk2d0sig 0x4220e60
+created formulatrk1z0sig trk1z0sig 0x4220e60
+created formulatrk2z0sig trk2z0sig 0x4220e60
+created formulatrk1pt_jete trk1pt_jete 0x4220e60
+created formulatrk2pt_jete trk2pt_jete 0x4220e60
+created formulajprobr2 jprobr2 0x4220e60
+created formulajprobr25sigma jprobr25sigma 0x4220e60
+created formulajprobz2 jprobz2 0x4220e60
+created formulajprobz25sigma jprobz25sigma 0x4220e60
+created formulad0bprob2 d0bprob2 0x4220e60
+created formulad0cprob2 d0cprob2 0x4220e60
+created formulad0qprob2 d0qprob2 0x4220e60
+created formulaz0bprob2 z0bprob2 0x4220e60
+created formulaz0cprob2 z0cprob2 0x4220e60
+created formulaz0qprob2 z0qprob2 0x4220e60
+created formulatrkmass trkmass 0x4220e60
+created formulanmuon nmuon 0x4220e60
+created formulanelectron nelectron 0x4220e60
+created formulaWeight Weight 0x4220e60
+Event 0: 15.1537s real time, 14.43s cpu time
+Event 10000: 15.3685s real time, 14.64s cpu time
+Event 20000: 15.5696s real time, 14.84s cpu time
+Event 30000: 15.7617s real time, 15.03s cpu time
+Event 40000: 15.9539s real time, 15.22s cpu time
+Event 50000: 16.1694s real time, 15.44s cpu time
+Event 60000: 16.3616s real time, 15.63s cpu time
+Event 70000: 16.5575s real time, 15.82s cpu time
+Event 80000: 16.7651s real time, 16.03s cpu time
+Event 90000: 16.9588s real time, 16.22s cpu time
+Event 100000: 17.1786s real time, 16.45s cpu time
+Event 110000: 17.3711s real time, 16.64s cpu time
+Event 120000: 17.5632s real time, 16.83s cpu time
+Event 130000: 17.7596s real time, 17.03s cpu time
+Event 140000: 17.9875s real time, 17.25s cpu time
+Event 150000: 18.1836s real time, 17.45s cpu time
+Event 160000: 18.3763s real time, 17.64s cpu time
+Event 170000: 18.5687s real time, 17.83s cpu time
+Event 180000: 18.764s real time, 18.02s cpu time
+Event 190000: 18.995s real time, 18.26s cpu time
+Event 200000: 19.1916s real time, 18.46s cpu time
+Event 210000: 19.4048s real time, 18.67s cpu time
+Event 220000: 19.5977s real time, 18.86s cpu time
+Event 230000: 19.8133s real time, 19.08s cpu time
+Event 240000: 20.0219s real time, 19.29s cpu time
+Event 250000: 20.2184s real time, 19.48s cpu time
+Event 260000: 20.4112s real time, 19.67s cpu time
+Event 270000: 20.6037s real time, 19.87s cpu time
+Event 280000: 20.821s real time, 20.08s cpu time
+Event 290000: 21.0168s real time, 20.28s cpu time
+Event 300000: 21.2137s real time, 20.48s cpu time
+Event 310000: 21.4218s real time, 20.69s cpu time
+Event 320000: 21.6151s real time, 20.88s cpu time
+Event 330000: 21.831s real time, 21.09s cpu time
+Event 340000: 22.0239s real time, 21.28s cpu time
+Event 350000: 22.2172s real time, 21.48s cpu time
+Event 360000: 22.4339s real time, 21.69s cpu time
+Event 370000: 22.647s real time, 21.91s cpu time
+Event 380000: 22.8444s real time, 22.11s cpu time
+Event 390000: 23.0382s real time, 22.3s cpu time
+Event 400000: 23.232s real time, 22.49s cpu time
+Event 410000: 23.4494s real time, 22.71s cpu time
+Event 420000: 23.6778s real time, 22.94s cpu time
+Event 430000: 23.8748s real time, 23.14s cpu time
+Event 440000: 24.0693s real time, 23.33s cpu time
+Event 450000: 24.2646s real time, 23.52s cpu time
+Event 460000: 24.4625s real time, 23.72s cpu time
+Event 470000: 24.6754s real time, 23.93s cpu time
+Event 480000: 24.8879s real time, 24.15s cpu time
+Event 490000: 25.0813s real time, 24.34s cpu time
+Event 500000: 25.2842s real time, 24.54s cpu time
+Event 510000: 25.4973s real time, 24.75s cpu time
+Event 520000: 25.699s real time, 24.96s cpu time
+Event 530000: 25.8923s real time, 25.15s cpu time
+Event 540000: 26.0869s real time, 25.35s cpu time
+Event 550000: 26.285s real time, 25.54s cpu time
+Event 560000: 26.4978s real time, 25.76s cpu time
+Event 570000: 26.6951s real time, 25.95s cpu time
+Event 580000: 26.9033s real time, 26.16s cpu time
+Event 590000: 27.0963s real time, 26.35s cpu time
+Event 600000: 27.3326s real time, 26.59s cpu time
+Event 610000: 27.5268s real time, 26.78s cpu time
+Event 620000: 27.7199s real time, 26.98s cpu time
+Event 630000: 27.9187s real time, 27.18s cpu time
+Event 640000: 28.1688s real time, 27.42s cpu time
+Event 650000: 28.3459s real time, 27.6s cpu time
+Event 660000: 28.5206s real time, 27.77s cpu time
+Event 670000: 28.6953s real time, 27.95s cpu time
+Event 680000: 28.8723s real time, 28.13s cpu time
+Event 690000: 29.0623s real time, 28.32s cpu time
+Event 700000: 29.2408s real time, 28.49s cpu time
+Event 710000: 29.4154s real time, 28.68s cpu time
+Event 720000: 29.5907s real time, 28.85s cpu time
+Event 730000: 29.7693s real time, 29.03s cpu time
+Event 740000: 29.9602s real time, 29.22s cpu time
+Event 750000: 30.1385s real time, 29.4s cpu time
+Event 760000: 30.3135s real time, 29.58s cpu time
+Event 770000: 30.4893s real time, 29.75s cpu time
+Event 780000: 30.668s real time, 29.93s cpu time
+Event 790000: 30.8431s real time, 30.11s cpu time
+Event 800000: 31.0525s real time, 30.31s cpu time
+Event 810000: 31.2428s real time, 30.5s cpu time
+Event 820000: 31.419s real time, 30.68s cpu time
+Event 830000: 31.5999s real time, 30.86s cpu time
+Event 840000: 31.7752s real time, 31.04s cpu time
+Event 850000: 31.9549s real time, 31.22s cpu time
+Event 860000: 32.144s real time, 31.4s cpu time
+Event 870000: 32.3196s real time, 31.58s cpu time
+Event 880000: 32.4981s real time, 31.76s cpu time
+Event 890000: 32.6734s real time, 31.93s cpu time
+Event 900000: 32.8492s real time, 32.11s cpu time
+Event 910000: 33.028s real time, 32.29s cpu time
+Event 920000: 33.2191s real time, 32.48s cpu time
+Event 930000: 33.3969s real time, 32.66s cpu time
+Event 940000: 33.5717s real time, 32.83s cpu time
+Event 950000: 33.7465s real time, 33.01s cpu time
+Event 960000: 33.9254s real time, 33.19s cpu time
+Event 970000: 34.1154s real time, 33.38s cpu time
+Event 980000: 34.2938s real time, 33.55s cpu time
+Event 990000: 34.4887s real time, 33.75s cpu time
+Event 1000000: 34.6728s real time, 33.93s cpu time
+Event 1010000: 34.8473s real time, 34.11s cpu time
+Event 1020000: 35.03s real time, 34.29s cpu time
+Event 1030000: 35.2061s real time, 34.47s cpu time
+Event 1040000: 35.3808s real time, 34.64s cpu time
+Event 1050000: 35.5623s real time, 34.82s cpu time
+Event 1060000: 35.7373s real time, 35s cpu time
+Event 1070000: 35.9119s real time, 35.17s cpu time
+Event 1080000: 36.0927s real time, 35.35s cpu time
+Event 1090000: 36.2678s real time, 35.53s cpu time
+Event 1100000: 36.4494s real time, 35.71s cpu time
+Event 1110000: 36.6402s real time, 35.9s cpu time
+Event 1120000: 36.8145s real time, 36.07s cpu time
+Event 1130000: 36.995s real time, 36.25s cpu time
+Event 1140000: 37.1695s real time, 36.43s cpu time
+Event 1150000: 37.3444s real time, 36.6s cpu time
+Event 1160000: 37.5252s real time, 36.78s cpu time
+Event 1170000: 37.7s real time, 36.96s cpu time
+Event 1180000: 37.8817s real time, 37.14s cpu time
+Event 1190000: 38.0778s real time, 37.34s cpu time
+Event 1200000: 38.2677s real time, 37.53s cpu time
+Event 1210000: 38.4326s real time, 37.69s cpu time
+Event 1220000: 38.6219s real time, 37.88s cpu time
+Event 1230000: 38.7965s real time, 38.05s cpu time
+Event 1240000: 38.9782s real time, 38.24s cpu time
+Event 1250000: 39.1539s real time, 38.41s cpu time
+Event 1260000: 39.3294s real time, 38.59s cpu time
+Event 1270000: 41.448s real time, 40.6s cpu time
+Event 1280000: 41.6243s real time, 40.78s cpu time
+Event 1290000: 41.8054s real time, 40.96s cpu time
+Event 1300000: 41.996s real time, 41.15s cpu time
+Event 1310000: 42.1723s real time, 41.32s cpu time
+Event 1320000: 42.3533s real time, 41.51s cpu time
+Event 1330000: 42.528s real time, 41.68s cpu time
+Event 1340000: 42.7028s real time, 41.85s cpu time
+Event 1350000: 42.8835s real time, 42.03s cpu time
+Event 1360000: 43.058s real time, 42.21s cpu time
+Event 1370000: 43.24s real time, 42.39s cpu time
+Event 1380000: 43.4159s real time, 42.57s cpu time
+Event 1390000: 43.6203s real time, 42.77s cpu time
+Event 1400000: 43.8027s real time, 42.95s cpu time
+Event 1410000: 43.9786s real time, 43.13s cpu time
+Event 1420000: 44.1531s real time, 43.3s cpu time
+Event 1430000: 44.3331s real time, 43.48s cpu time
+Event 1440000: 44.5077s real time, 43.66s cpu time
+Event 1450000: 44.6822s real time, 43.83s cpu time
+Event 1460000: 44.8647s real time, 44.01s cpu time
+Event 1470000: 45.0559s real time, 44.21s cpu time
+Event 1480000: 45.2216s real time, 44.37s cpu time
+Event 1490000: 45.4114s real time, 44.56s cpu time
+Tree Skimming took 46.4792s real time, 45.37s cpu time
+Created dir FlavourTag250IFIC_eLpR_catA
+initial Variables  16 ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+additional Variables  3 ['trkmass', 'nmuon', 'nelectron']
+spectator Variables 0 []
+ivars  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+setting up coordinate  [u'NTrees', 100, 1500, 50, u'int']
+setting up coordinate  [u'Shrinkage', 0.001, 0.05, 0.005, u'float']
+setting up coordinate  [u'GradBaggingFraction', 0.1, 0.8, 0.05, u'float']
+setting up coordinate  [u'nCuts', 10, 80, 5, u'int']
+setting up coordinate  [u'MaxDepth', 2, 8, 1, u'int']
+
+----------------------------------------
+
+using CMSSW_BASE=/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/root/6.18.04/bin:/cvmfs/sft.cern.ch/lcg/releases/LCG_96/Python/2.7.16/x86_64-centos7-gcc8-opt/bin:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.2.0-3fa06/x86_64-centos7/bin:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.30-e5b21/x86_64-centos7/bin:/cvmfs/sft.cern.ch/lcg/releases/mysql/5.7.26-c3e26/x86_64-centos7-gcc8-opt/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/sio/v00-01/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/DD4hepExamples/v01-11-02/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/lcgeo/v00-16-07/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/DD4hep/v01-11-02/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/geant4/10.04.p03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/FastJet/3.2.1/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/CEDViewer/v01-19/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/PandoraAnalysis/v02-00-01/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/CED/v01-09-03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/gsl/2.6/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/aidaTT/v00-10/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/xercesc/v3.2.2/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/Qt5/v5.13.1/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/geant4/10.04.p03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/DD4hep/v01-11-02/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/geant4/10.04.p03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/gear/v01-09/tools:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/gear/v01-09/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/RAIDA/v01-09/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/CLHEP/2.3.4.3/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/Marlin/v01-17-01/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/CMake/3.15.5/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/lcio/v02-17/tools:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/lcio/v02-17/bin:/cvmfs/sft.cern.ch/lcg/releases/LCG_96/Python/2.7.16/x86_64-centos7-gcc8-opt/bin:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.2.0-3fa06/x86_64-centos7/bin:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.30-e5b21/x86_64-centos7/bin:/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/lhome/ific/m/marherje/.local/bin:/lhome/ific/m/marherje/bin
+using SCRAM_ARCH=/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/root/6.18.04/bin:/cvmfs/sft.cern.ch/lcg/releases/LCG_96/Python/2.7.16/x86_64-centos7-gcc8-opt/bin:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.2.0-3fa06/x86_64-centos7/bin:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.30-e5b21/x86_64-centos7/bin:/cvmfs/sft.cern.ch/lcg/releases/mysql/5.7.26-c3e26/x86_64-centos7-gcc8-opt/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/sio/v00-01/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/DD4hepExamples/v01-11-02/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/lcgeo/v00-16-07/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/DD4hep/v01-11-02/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/geant4/10.04.p03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/FastJet/3.2.1/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/CEDViewer/v01-19/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/PandoraAnalysis/v02-00-01/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/CED/v01-09-03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/gsl/2.6/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/aidaTT/v00-10/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/xercesc/v3.2.2/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/Qt5/v5.13.1/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/geant4/10.04.p03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/DD4hep/v01-11-02/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/geant4/10.04.p03/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/gear/v01-09/tools:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/gear/v01-09/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/RAIDA/v01-09/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/CLHEP/2.3.4.3/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/Marlin/v01-17-01/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/CMake/3.15.5/bin:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/lcio/v02-17/tools:/cvmfs/ilc.desy.de/sw/x86_64_gcc82_centos7/v02-02-03/lcio/v02-17/bin:/cvmfs/sft.cern.ch/lcg/releases/LCG_96/Python/2.7.16/x86_64-centos7-gcc8-opt/bin:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.2.0-3fa06/x86_64-centos7/bin:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.30-e5b21/x86_64-centos7/bin:/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/lhome/ific/m/marherje/.local/bin:/lhome/ific/m/marherje/bin
+might not be the right choice, depending on your linux, target linux and CMSSW Version
+changeable in QueHelper.py
+set up QueHelper
+
+Compiling PSO/Particle.C
+g++ -o /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA/InitData/Particle PSO/Particle.C `root-config --cflags --glibs` -lTMVA
+Particle 0  has inital coords  [[u'NTrees', 327, 50], [u'Shrinkage', 0.028007848793175073, 0.005], [u'GradBaggingFraction', 0.7067158800782636, -0.05], [u'nCuts', 31, 5], [u'MaxDepth', 2, 1]]
+Particle 1  has inital coords  [[u'NTrees', 1430, 50], [u'Shrinkage', 0.03324318654183298, -0.005], [u'GradBaggingFraction', 0.10557917677797378, 0.05], [u'nCuts', 76, -5], [u'MaxDepth', 2, 1]]
+Particle 2  has inital coords  [[u'NTrees', 565, 50], [u'Shrinkage', 0.01841172013571486, 0.005], [u'GradBaggingFraction', 0.7765881294151769, -0.05], [u'nCuts', 66, 5], [u'MaxDepth', 5, 1]]
+Particle 3  has inital coords  [[u'NTrees', 1053, -50], [u'Shrinkage', 0.025827630458865318, -0.005], [u'GradBaggingFraction', 0.20578646382782612, 0.05], [u'nCuts', 39, -5], [u'MaxDepth', 4, 1]]
+Particle 4  has inital coords  [[u'NTrees', 1177, 50], [u'Shrinkage', 0.03802297340054065, 0.005], [u'GradBaggingFraction', 0.7669232138432562, 0.05], [u'nCuts', 75, -5], [u'MaxDepth', 5, -1]]
+Particle 5  has inital coords  [[u'NTrees', 1085, 50], [u'Shrinkage', 0.016011274570133537, -0.005], [u'GradBaggingFraction', 0.2414967013290152, 0.05], [u'nCuts', 24, 5], [u'MaxDepth', 3, 0]]
+Particle 6  has inital coords  [[u'NTrees', 851, 50], [u'Shrinkage', 0.03865302411117591, 0.005], [u'GradBaggingFraction', 0.27071693809702996, 0.05], [u'nCuts', 40, -5], [u'MaxDepth', 5, -1]]
+Particle 7  has inital coords  [[u'NTrees', 353, -50], [u'Shrinkage', 0.0040361435378436, 0.005], [u'GradBaggingFraction', 0.12465591744985433, 0.05], [u'nCuts', 66, -5], [u'MaxDepth', 4, 0]]
+Particle 8  has inital coords  [[u'NTrees', 1059, 50], [u'Shrinkage', 0.028414760566549378, 0.005], [u'GradBaggingFraction', 0.6872556745307521, 0.05], [u'nCuts', 57, 5], [u'MaxDepth', 2, 1]]
+Particle 9  has inital coords  [[u'NTrees', 484, -50], [u'Shrinkage', 0.03256931640044786, -0.005], [u'GradBaggingFraction', 0.2723347134888172, -0.05], [u'nCuts', 18, 5], [u'MaxDepth', 5, 1]]
+Particle 10  has inital coords  [[u'NTrees', 657, -50], [u'Shrinkage', 0.011246108281891792, 0.005], [u'GradBaggingFraction', 0.17636048204731197, -0.05], [u'nCuts', 49, -5], [u'MaxDepth', 2, -1]]
+Particle 11  has inital coords  [[u'NTrees', 1149, 50], [u'Shrinkage', 0.021022816913435237, 0.005], [u'GradBaggingFraction', 0.3295079410541803, 0.05], [u'nCuts', 39, -5], [u'MaxDepth', 4, 1]]
+Particle 12  has inital coords  [[u'NTrees', 1229, 50], [u'Shrinkage', 0.04142278709751554, 0.005], [u'GradBaggingFraction', 0.7188083570916206, -0.05], [u'nCuts', 23, -5], [u'MaxDepth', 4, 1]]
+Particle 13  has inital coords  [[u'NTrees', 536, -50], [u'Shrinkage', 0.03341987290862017, 0.005], [u'GradBaggingFraction', 0.41730778389610357, -0.05], [u'nCuts', 20, -5], [u'MaxDepth', 5, 1]]
+Particle 14  has inital coords  [[u'NTrees', 359, -50], [u'Shrinkage', 0.0036098344163037837, 0.004876708273310215], [u'GradBaggingFraction', 0.5110524636460468, 0.05], [u'nCuts', 56, 5], [u'MaxDepth', 6, 0]]
+Particle 15  has inital coords  [[u'NTrees', 878, -50], [u'Shrinkage', 0.030515478744637222, 0.005], [u'GradBaggingFraction', 0.613049090304412, -0.05], [u'nCuts', 51, 5], [u'MaxDepth', 7, 1]]
+Particle 16  has inital coords  [[u'NTrees', 430, 50], [u'Shrinkage', 0.008933533197268844, 0.005], [u'GradBaggingFraction', 0.2357741429237649, -0.05], [u'nCuts', 20, -5], [u'MaxDepth', 3, 1]]
+Particle 17  has inital coords  [[u'NTrees', 1003, -50], [u'Shrinkage', 0.047946622126270086, 0.005], [u'GradBaggingFraction', 0.4704764151014388, -0.05], [u'nCuts', 17, 5], [u'MaxDepth', 5, 0]]
+Particle 18  has inital coords  [[u'NTrees', 724, 50], [u'Shrinkage', 0.005060641718795523, 0.005], [u'GradBaggingFraction', 0.21693411455489697, 0.05], [u'nCuts', 33, -5], [u'MaxDepth', 6, 1]]
+Particle 19  has inital coords  [[u'NTrees', 925, -50], [u'Shrinkage', 0.03489689155458473, -0.005], [u'GradBaggingFraction', 0.5856977817136795, 0.05], [u'nCuts', 62, 5], [u'MaxDepth', 7, 0]]
+Particle 20  has inital coords  [[u'NTrees', 900, -50], [u'Shrinkage', 0.019705505257705227, 0.005], [u'GradBaggingFraction', 0.44572517550550406, 0.05], [u'nCuts', 31, -5], [u'MaxDepth', 6, -1]]
+Particle 21  has inital coords  [[u'NTrees', 990, 50], [u'Shrinkage', 0.008073348965728656, 0.005], [u'GradBaggingFraction', 0.6074128822423518, 0.05], [u'nCuts', 40, -5], [u'MaxDepth', 3, 1]]
+Particle 22  has inital coords  [[u'NTrees', 178, 50], [u'Shrinkage', 0.014061580961104481, -0.005], [u'GradBaggingFraction', 0.736766185448505, 0.05], [u'nCuts', 13, 5], [u'MaxDepth', 5, -1]]
+Particle 23  has inital coords  [[u'NTrees', 914, -50], [u'Shrinkage', 0.006119299400364981, -0.005], [u'GradBaggingFraction', 0.4349542629206553, 0.007100560702383518], [u'nCuts', 55, 5], [u'MaxDepth', 7, 0]]
+Particle 24  has inital coords  [[u'NTrees', 1233, 50], [u'Shrinkage', 0.030662909253267572, 0.005], [u'GradBaggingFraction', 0.38101649421732875, 0.05], [u'nCuts', 17, 5], [u'MaxDepth', 4, 1]]
+Particle 25  has inital coords  [[u'NTrees', 1083, -50], [u'Shrinkage', 0.007033882077783347, 0.005], [u'GradBaggingFraction', 0.2144330315291882, 0.05], [u'nCuts', 18, -5], [u'MaxDepth', 3, 1]]
+Particle 26  has inital coords  [[u'NTrees', 751, -50], [u'Shrinkage', 0.006750586677342654, 0.005], [u'GradBaggingFraction', 0.35673707011155786, 0.05], [u'nCuts', 65, 5], [u'MaxDepth', 5, 0]]
+Particle 27  has inital coords  [[u'NTrees', 203, 50], [u'Shrinkage', 0.02051263850228861, -0.005], [u'GradBaggingFraction', 0.16241693261545154, -0.05], [u'nCuts', 31, 5], [u'MaxDepth', 3, -1]]
+Particle 28  has inital coords  [[u'NTrees', 443, -50], [u'Shrinkage', 0.022441155005712064, 0.005], [u'GradBaggingFraction', 0.7889792340807618, -0.05], [u'nCuts', 54, 5], [u'MaxDepth', 6, 1]]
+Particle 29  has inital coords  [[u'NTrees', 1274, 50], [u'Shrinkage', 0.010512476406991482, -0.005], [u'GradBaggingFraction', 0.19764716480858624, 0.05], [u'nCuts', 25, 5], [u'MaxDepth', 5, -1]]
+Particle 30  has inital coords  [[u'NTrees', 827, -50], [u'Shrinkage', 0.03752869722479955, 0.005], [u'GradBaggingFraction', 0.3173172406619415, -0.05], [u'nCuts', 56, -5], [u'MaxDepth', 2, -1]]
+Particle 31  has inital coords  [[u'NTrees', 1071, -50], [u'Shrinkage', 0.040884700697846714, 0.005], [u'GradBaggingFraction', 0.44519896740093834, -0.05], [u'nCuts', 37, -5], [u'MaxDepth', 4, -1]]
+Particle 32  has inital coords  [[u'NTrees', 724, -50], [u'Shrinkage', 0.043657837054692214, 0.005], [u'GradBaggingFraction', 0.25812064304482196, -0.05], [u'nCuts', 26, 5], [u'MaxDepth', 3, 0]]
+Particle 33  has inital coords  [[u'NTrees', 365, -50], [u'Shrinkage', 0.00400390444113873, -0.005], [u'GradBaggingFraction', 0.6003422253765166, 0.05], [u'nCuts', 41, -5], [u'MaxDepth', 2, -1]]
+Particle 34  has inital coords  [[u'NTrees', 1059, -50], [u'Shrinkage', 0.001311587770935148, 0.005], [u'GradBaggingFraction', 0.7211857257876546, 0.05], [u'nCuts', 20, 5], [u'MaxDepth', 3, 1]]
+Particle 35  has inital coords  [[u'NTrees', 872, -50], [u'Shrinkage', 0.03863851244817488, -0.005], [u'GradBaggingFraction', 0.37537126953247935, 0.05], [u'nCuts', 50, -5], [u'MaxDepth', 3, -1]]
+Particle 36  has inital coords  [[u'NTrees', 622, 50], [u'Shrinkage', 0.04772244504280389, -0.005], [u'GradBaggingFraction', 0.2084692149423063, 0.05], [u'nCuts', 37, 5], [u'MaxDepth', 2, 1]]
+Particle 37  has inital coords  [[u'NTrees', 832, -50], [u'Shrinkage', 0.047426862345309934, -0.005], [u'GradBaggingFraction', 0.11909235445782543, 0.05], [u'nCuts', 79, -5], [u'MaxDepth', 6, 0]]
+Particle 38  has inital coords  [[u'NTrees', 1396, -50], [u'Shrinkage', 0.01413686976628378, 0.005], [u'GradBaggingFraction', 0.5871271205600351, -0.05], [u'nCuts', 27, -5], [u'MaxDepth', 3, 0]]
+Particle 39  has inital coords  [[u'NTrees', 204, -50], [u'Shrinkage', 0.03327928859065287, 0.005], [u'GradBaggingFraction', 0.28085005651228134, 0.05], [u'nCuts', 13, -5], [u'MaxDepth', 4, -1]]
+
+-------------------------------------------------------------
+Starting Optimization
+doing  20  Iterations
+
+
+Iteration  0
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 12 12 12 12 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 16 16 16 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 22 22 22 22 23 23 23 23 23 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 0
+[0.80056, 0.240163, '!H:!V:NTrees=878:BoostType=Grad:Shrinkage=0.0305154787446:UseBaggedBoost:GradBaggingFraction=0.613049090304:nCuts=51:MaxDepth=7:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  1
+optimization finished in ca  469.03300175  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 4 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 9 9 9 9 9 9 9 9 9 9 9 10 11 11 11 11 11 11 11 12 12 12 12 12 12 12 13 13 13 13 13 13 13 13 14 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 16 16 16 16 17 17 17 17 18 19 19 19 19 19 19 19 19 19 19 19 19 19 20 21 21 21 21 21 21 21 22 22 22 22 22 22 22 23 23 23 23 23 23 23 23 23 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 27 27 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 29 30 30 30 31 31 31 31 31 31 31 31 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 37 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 1
+[0.800875, 0.237306, '!H:!V:NTrees=1179:BoostType=Grad:Shrinkage=0.0364227870975:UseBaggedBoost:GradBaggingFraction=0.668808357092:nCuts=28:MaxDepth=5:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  2
+optimization finished in ca  309.81298118  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 7 7 7 8 8 8 8 8 8 8 8 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 12 12 12 12 12 12 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 14 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 32 32 32 32 32 32 32 32 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 2
+[0.80147, 0.238872, '!H:!V:NTrees=1000:BoostType=Grad:Shrinkage=0.0419253027405:UseBaggedBoost:GradBaggingFraction=0.570476415101:nCuts=27:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  3
+optimization finished in ca  287.316089693  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 26 26 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 32 32 32 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 3
+[0.802063, 0.223931, '!H:!V:NTrees=1034:BoostType=Grad:Shrinkage=0.0411807609084:UseBaggedBoost:GradBaggingFraction=0.606926415101:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  4
+optimization finished in ca  327.907421642  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 8 8 8 9 9 9 9 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 12 12 12 12 12 12 12 12 13 13 13 14 14 14 14 14 14 14 14 15 15 15 15 15 15 15 15 15 15 15 15 15 15 16 16 17 17 18 18 19 19 19 19 19 19 19 19 19 20 20 20 20 20 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23 23 23 23 23 23 23 23 25 25 25 25 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 28 28 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 4
+[0.802063, 0.223931, '!H:!V:NTrees=1034:BoostType=Grad:Shrinkage=0.0411807609084:UseBaggedBoost:GradBaggingFraction=0.606926415101:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  5
+optimization finished in ca  290.32697641  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 7 8 9 9 9 9 9 9 10 10 10 10 11 11 11 12 12 12 12 12 12 12 12 13 13 13 13 13 13 13 13 13 13 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 15 15 15 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 17 17 17 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 26 26 26 26 26 26 26 26 26 27 27 27 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 32 32 32 32 32 32 32 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 5
+[0.802063, 0.223931, '!H:!V:NTrees=1034:BoostType=Grad:Shrinkage=0.0411807609084:UseBaggedBoost:GradBaggingFraction=0.606926415101:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  6
+optimization finished in ca  342.569775799  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 4 4 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 9 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 12 12 12 12 14 14 14 15 16 16 16 16 16 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 27 27 27 27 27 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 6
+[0.80233, 0.215374, '!H:!V:NTrees=1042:BoostType=Grad:Shrinkage=0.0446366243426:UseBaggedBoost:GradBaggingFraction=0.480500045464:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  7
+optimization finished in ca  291.509553303  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 11 11 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 15 15 15 15 16 16 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 32 33 33 33 34 34 34 34 34 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 7
+[0.802553, 0.283182, '!H:!V:NTrees=1055:BoostType=Grad:Shrinkage=0.0446240724401:UseBaggedBoost:GradBaggingFraction=0.516950045464:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  8
+optimization finished in ca  281.553867255  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 14 14 14 14 14 14 14 15 15 15 15 16 16 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 24 24 24 24 24 24 24 24 24 24 25 25 25 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 28 28 28 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 8
+[0.802553, 0.283182, '!H:!V:NTrees=1055:BoostType=Grad:Shrinkage=0.0446240724401:UseBaggedBoost:GradBaggingFraction=0.516950045464:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  9
+optimization finished in ca  250.869211818  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 4 5 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 10 10 10 11 11 11 11 12 12 12 12 13 13 13 13 13 14 14 14 15 15 15 15 15 16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 24 24 24 24 24 24 25 25 25 25 26 26 26 26 26 26 26 27 27 27 27 27 28 28 28 28 28 28 28 29 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 32 32 33 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 9
+[0.802553, 0.283182, '!H:!V:NTrees=1055:BoostType=Grad:Shrinkage=0.0446240724401:UseBaggedBoost:GradBaggingFraction=0.516950045464:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  10
+optimization finished in ca  220.047199845  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 5 5 5 5 5 5 5 5 5 5 6 6 7 7 7 7 7 7 7 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 11 11 11 11 11 11 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 13 13 14 14 14 14 14 14 14 15 15 15 15 15 15 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 21 22 22 22 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 31 31 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 38 38 38 38 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 10
+[0.802553, 0.283182, '!H:!V:NTrees=1055:BoostType=Grad:Shrinkage=0.0446240724401:UseBaggedBoost:GradBaggingFraction=0.516950045464:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  11
+optimization finished in ca  188.956949524  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 8 8 8 9 10 10 10 10 10 10 10 10 10 10 10 11 11 11 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 13 13 13 13 13 13 13 13 13 13 13 13 13 14 14 14 14 14 14 14 14 14 15 15 15 15 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 28 28 28 28 28 28 28 28 28 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 31 31 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 40  
+
+------------------------------------------------------------------------
+Best Result after Iteration 11
+[0.802553, 0.283182, '!H:!V:NTrees=1055:BoostType=Grad:Shrinkage=0.0446240724401:UseBaggedBoost:GradBaggingFraction=0.516950045464:nCuts=30:MaxDepth=6:NegWeightTreatment=IgnoreNegWeightsInTraining', ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2'], ['trkmass', 'nmuon', 'nelectron']]
+OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ OutputDir =  /lhome/ific/m/marherje/ParticleSwarmOptimization/FlavourTag250IFIC_eLpR_catA
+ usedVariables =  ['trk1d0sig', 'trk2d0sig', 'trk1z0sig', 'trk2z0sig', 'trk1pt_jete', 'trk2pt_jete', 'jprobr2', 'jprobr25sigma', 'jprobz2', 'jprobz25sigma', 'd0bprob2', 'd0cprob2', 'd0qprob2', 'z0bprob2', 'z0cprob2', 'z0qprob2']
+
+Iteration  12
+optimization finished in ca  170.83460726  hours
+Number of particles finished: [checked every 60sec]
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
