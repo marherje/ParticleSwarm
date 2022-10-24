@@ -1,0 +1,14 @@
+
+Processing lcfiplusvariables.cc("250","eL_pR","A")...
+Init Reading
+250
+Files loaded: 
+../../data/MakeNTuples250/eL_pR_b_quark_merged.root
+Entries in category A: 499200
+Entries in d0bprob2 in cat. A: 116910
+../../data/MakeNTuples250/eL_pR_c_quark_merged.root
+Entries in category A: 500000
+Entries in d0bprob2 in cat. A: 262821
+../../data/MakeNTuples250/eL_pR_light_quark_merged.root
+Entries in category A: 1499200
+Entries in d0bprob2 in cat. A: 1465868
